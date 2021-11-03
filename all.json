@@ -2,11 +2,11 @@
     "products":[
       {
         "id": 1,
-        "name": "Xâu bánh tráng dầu muối bột tuổi thơ  ( 10b )",
+        "name": "Áo hoody",
         "category": "best seller",
-        "price": 15000,
+        "price": 150000,
         "qty": 1,
-        "imageUrl" : "https://i.pinimg.com/originals/d4/de/d4/d4ded473a6ea9816189ed7230692e93f.jpg",
+        "imageUrl" : "https://img.lovepik.com/photo/50142/3664.jpg_wh860.jpg",
         "updatedAt": 1623470929038
         
       },
